@@ -1,0 +1,9 @@
+Temperature,Humidity,SquareFootage,Occupancy,RenewableEnergy,HVACUsage,LightingUsage,DayOfWeek,Holiday,EnergyConsumption
+72.5,45.2,5000,50,100,On,On,Monday,No,450.5
+74.1,,5000,55,120,On,On,Tuesday,No,470.2
+68.0,40.1,5000,10,0,Off,Off,Saturday,No,150.0
+999.0,42.5,,12,,Off,Off,Sunday,No,160.0
+73.8,48.7,5000,60,110,,On,Wednesday,No,480.8
+71.5,46.0,5000,5000,90,On,,Thursday,No,440.0
+-20.0,52.3,5000,58,115,On,On,Friday,Yes,8500.5
+75.0,50.1,5000,,,On,On,Monday,No,
